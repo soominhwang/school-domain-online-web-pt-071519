@@ -5,5 +5,4 @@ class School
 
   def name
   end
-
 end
