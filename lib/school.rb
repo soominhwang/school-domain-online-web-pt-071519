@@ -5,4 +5,7 @@ class School
 
   def name
   end
+
+  def roster
+  end 
 end
