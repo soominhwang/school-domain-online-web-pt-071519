@@ -1,8 +1,11 @@
 # code here!
 class School
-  def initialize(roster)
+  def initialize(name)
   end
 
-  def roster
+  def name
+  end
+
+  def
   end
 end
