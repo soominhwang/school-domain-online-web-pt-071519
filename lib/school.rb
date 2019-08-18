@@ -8,6 +8,6 @@ class School
   def name
   end
 
-  def
+  def add_student
   end
 end
